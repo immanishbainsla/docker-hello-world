@@ -1,0 +1,1 @@
+[{"package": "django", "version": "2.2", "deps": [{"package": "pytz", "version": "2018.7"}, {"package": "sqlparse", "version": "0.4.1"}]}, {"package": "gunicorn", "version": "20.0.4", "deps": [{"package": "setuptools", "version": "49.1.3"}]}]
